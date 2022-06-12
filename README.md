@@ -1,7 +1,7 @@
 C - Simple Shell
 
 Tasks
-	Mandatory 
+Mandatory 
 
 	0. Betty would be proud
 		Write a beautiful code that passes the Betty checks
@@ -23,7 +23,7 @@ Tasks
 		Simple shell 0.4 +
 			Implement the env built-in, that prints the current environment
 
-	Advanced 
+Advanced 
 
 	6. Simple shell 0.1.1
 			Write your own getline function

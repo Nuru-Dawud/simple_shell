@@ -1,6 +1,7 @@
 C - Simple Shell
 
 Tasks
+	Mandatory 
 
 	0. Betty would be proud
 		Write a beautiful code that passes the Betty checks
@@ -21,3 +22,29 @@ Tasks
 	5. Simple shell 1.0
 		Simple shell 0.4 +
 			Implement the env built-in, that prints the current environment
+
+	Advanced 
+
+	6. Simple shell 0.1.1
+			Write your own getline function
+			Use a buffer to read many chars at once and call the least possible the read system call
+			You will need to use static variables
+			You are not allowed to use getline
+	7. Simple shell 0.2.1
+		You are not allowed to use strtok
+	8. Simple shell 0.4.1
+			handle arguments for the built-in exit
+			Usage: exit status, where status is an integer used to exit the shell
+	9. setenv, unsetenv
+			Implement the setenv and unsetenv builtin commands
+	10. cd
+	11. ;
+		Simple shell 1.0 +
+			Handle the commands separator ;
+	12. && and ||
+		Simple shell 1.0 +
+			Handle the && and || shell logical operator
+	13. alias
+	14. Variables
+	15. Comments
+	16. File as input
